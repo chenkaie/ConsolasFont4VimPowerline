@@ -5,7 +5,7 @@ ABOUT
 
 SCREENSHOTS
 ====
-![ConsolasFont4VimPowerline.png](https://github.com/chenkaie/ConsolasFont4VimPowerline/blob/master/ConsolasFont4VimPowerline.png)
+![ConsolasFont4VimPowerline.png](https://raw.github.com/chenkaie/ConsolasFont4VimPowerline/master/ConsolasFont4VimPowerline.png)
 
 AUTHOR
 ======
