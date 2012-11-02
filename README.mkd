@@ -1,0 +1,22 @@
+ABOUT
+=====
+
+Patched Consolas font for use with [Vim-Powerline](https://github.com/Lokaltog/vim-powerline) on GitHub
+Supported symbols: ⭠ ⭡ ⭢⭣ ⭤ ⮀ ⮁ ⮂ ⮃ ⋅ ⋮
+
+Screenshots
+====
+![ConsolasFont4VimPowerline.png](https://raw.github.com/chenkaie/chenkaie.github.com/master/ConsolasFont4VimPowerline.png)
+
+AUTHOR
+======
+
+Kent Chen (chenkaie) <chenkaie@gmail.com>
+
+* [@chenkaie](https://twitter.com/chenkaie) on Twitter
+* [@chenkaie](https://github.com/chenkaie) on GitHub
+* [@chenkaie](http://www.slideshare.net/chenkaie) on SlideShare
+* [@chenkaie](http://www.linkedin.com/in/chenkaie) on LinkedIn
+* [@chenkaie](http://www.plurk.com/chenkaie) on Plurk 
+* <http://chenkaie.blogspot.com>
+
