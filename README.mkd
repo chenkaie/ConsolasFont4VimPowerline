@@ -1,7 +1,7 @@
 ABOUT
 =====
 * Patched Consolas font for use with Vim plugin: [vim-powerline](https://github.com/Lokaltog/vim-powerline) on GitHub
-* Supported symbols: ⭠ ⭡ ⭢⭣ ⭤ ⮀ ⮁ ⮂ ⮃ ⋅ ⋮
+* Supported symbols: ⭠ ⭡ ⭢⭣ ⭤ ⮀ ⮁ ⮂ ⮃ ⋅ ⋮ ❐
 
 SCREENSHOTS
 ====
